@@ -1,4 +1,3 @@
-[![Claw Studios](https://pbs.twimg.com/profile_images/1081702613823967233/SeXAgWwO_200x200.jpg)](https://www.clawstudios.com/)
 
 # Node + Express + Mongoose REST API Boilerplate
 The intention of this project is to provide a Simple Solid Scalable base of code to create RESTful APIs using Node.js + Express.js and MongoDB (Mongoose ODM).
@@ -190,9 +189,7 @@ export const User: Model<IUserModel> = model<IUserModel>('User', UserSchema);
 
 
 # Contribution
-We encourage you to let us know about your suggestions, ideas, corrections, and more. Use Github platform, create issues, fork the repo and send PR or just send us an email to : [info@clawstudios.com](mailto:info@clawstudios.com).
+We encourage you to let us know about your suggestions, ideas, corrections, and more. Use Github platform, create issues, fork the repo and send PR or just send us an email to : 
 
-
-[www.clawstudios.com](https://www.clawstudios.com/)
 
 
